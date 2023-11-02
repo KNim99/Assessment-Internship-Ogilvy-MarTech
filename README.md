@@ -15,3 +15,6 @@
 12) Open website using this link (http://localhost:3000/)
 13) Now you can register as a student or a teacher
 14) And you can login as well
+
+This is the drive link for the student_attendance database
+https://drive.google.com/drive/folders/1MOUZrklNH1RJ1O-Pl4CxiIogBBFjMC7_?usp=sharing
